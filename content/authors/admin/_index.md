@@ -14,7 +14,7 @@ organizations:
   url: https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
+bio: I am a researcher in DahariLab and the Program for Experimental & Theoretical Modeling (PETM) at Loyola University Medical Center. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
 
 # Interests to show in About widget
 interests:
@@ -69,6 +69,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a researcher in DahariLab and the Program for Experimental & Theoretical Modeling (PETM) at Loyola University Medical Center. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
+I am a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
