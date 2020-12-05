@@ -71,4 +71,4 @@ user_groups:
 
 I am a researcher in DahariLab and the Program for Experimental & Theoretical Modeling (PETM) at Loyola University Medical Center. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
