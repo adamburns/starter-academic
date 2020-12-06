@@ -31,7 +31,6 @@ tags:
 featured: false
 
 links:
-[]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
