@@ -17,9 +17,6 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19"
-publication_short: "Effectiveness of Isolation Policies in Schools"
-
-abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
