@@ -5,7 +5,7 @@ authors:
 - admin
 - Evan Cudone
 - Karina Durso-Cain
-- Frederiik Graw
+- Frederik Graw
 - Susan L. Uprichard
 - Harel Dahari
 date: "2021-01-31T00:00:00Z"
