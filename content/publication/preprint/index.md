@@ -2,6 +2,7 @@
 title: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19"
 authors:
 - admin
+- Alexander Gutfraind
 date: "2020-11-23T00:00:00Z"
 doi: "https://doi.org/10.1101/2020.03.26.20044750"
 
@@ -28,16 +29,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: https://www.medrxiv.org/content/10.1101/2020.03.26.20044750v2
 url_pdf: https://www.medrxiv.org/content/10.1101/2020.03.26.20044750v2.full.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: 'https://github.com/sashagutfraind/feverfighter'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
