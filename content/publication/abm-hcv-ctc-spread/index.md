@@ -23,6 +23,22 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: ''
 
+abstract: "Mechanisms that lead to viral chronicity are poorly understood, but cell-to-cell spread has been
+implicated in the establishment of chronic infections. We previously developed two stochastic
+mathematical models to explore the nature of hepatitis C virus (HCV) cell-to-cell spread in vitro
+and quantified the effect of inhibiting individual host factors. However, the previous models were
+not designed to differentiate focus expansion due to spread vs cell proliferation, focus shape,
+cell size, or foci merging. Here we have developed an agent-based model (ABM) to more fully
+describe this biological system. The ABM recapitulates the dynamic cell population in which
+individual cells progress through different cell cycle and infection stages and proliferate resulting
+in increasing cell number with concomitant decrease in size mimicking cells becoming tightly
+packed in culture. The ABM recapitulates the observed irregular HCV foci shape suggesting that
+this is a product of the stochastic nature of cell-to-cell spread. In silico alteration of cell
+proliferation rates indicated that the cell division observed within the cultures exerts minimal
+effect on measured cell-to-cell spread rates. The model fits the data well, confirms our previous
+prediction that HCV spread is best described by a hybrid of two stochastic models and has the
+potential to give more accurate predictions regarding HCV cell-to-cell spread."
+
 # Summary. An optional shortened abstract.
 summary: ''
 
