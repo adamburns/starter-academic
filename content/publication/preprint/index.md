@@ -3,8 +3,8 @@ title: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathemat
 authors:
 - admin
 - Alexander Gutfraind
-date: "2020-11-23T00:00:00Z"
-doi: "https://doi.org/10.1101/2020.03.26.20044750"
+date: "2021-03-30T00:00:00Z"
+doi: "https://doi.org/10.7717/peerj.11211"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ''
