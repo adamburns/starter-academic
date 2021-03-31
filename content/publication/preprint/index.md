@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://www.medrxiv.org/content/10.1101/2020.03.26.20044750v2.full.pdf
+
 url_code: 'https://github.com/sashagutfraind/feverfighter'
 
 # Associated Projects (optional).
