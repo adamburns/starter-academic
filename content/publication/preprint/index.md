@@ -37,7 +37,7 @@ tags:
 featured: false
 
 links:
-url: 'https://peerj.com/articles/11211/'
+url_pdf: 'https://peerj.com/articles/11211/'
 url_code: 'https://github.com/sashagutfraind/feverfighter'
 
 # Associated Projects (optional).
