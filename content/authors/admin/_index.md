@@ -10,7 +10,7 @@ role: Database/Systems Administrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Coordinating Centers for Biometric Research
+- name: Coordinating Centers for Biometric Research, University of Minnesota
   url: http://ccbr.biostat.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
