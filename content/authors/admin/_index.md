@@ -6,12 +6,12 @@ title: Adam A.C. Burns
 superuser: true
 
 # Role/position/tagline
-role: Volunteer Researcher
+role: Database/Systems Administrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Program for Experimental & Theoretical Modeling (PETM) at Loyola University Medical Center
-  url: https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/
+- name: Coordinating Centers for Biometric Research
+  url: http://ccbr.biostat.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a researcher in DahariLab and the Program for Experimental & Theoretical Modeling (PETM) at Loyola University Medical Center. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
@@ -21,10 +21,14 @@ interests:
 - Computational biology
 - Computational genomics
 - Drug discovery
+- Embedded systems
 
 # Education to show in About widget
 education:
   courses:
+  - course: BSc in Electrical Engineering
+    institution: Stony Brook University
+    year: 2023
   - course: BSc in Mathematics
     institution: Indiana University East
     year: 2017
@@ -69,4 +73,4 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
+I am a database and systems administrator at [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/), a researcher in [DahariLab](https://www.daharilab.com/), and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
