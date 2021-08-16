@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Electrical Engineering
+  - course: BS in Electrical Engineering
     institution: Stony Brook University
     year: 2023
-  - course: BSc in Mathematics
+  - course: BS in Mathematics
     institution: Indiana University East
     year: 2017
 
