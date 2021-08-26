@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Computer Science
+    institution: University of Illinois
+    year: 2020
   - course: BS in Mathematics
     institution: Indiana University
     year: 2017
