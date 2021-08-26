@@ -8,6 +8,9 @@ authors:
 - Frederik Graw
 - Susan L. Uprichard
 - Harel Dahari
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2021-01-31T00:00:00Z"
 doi: ''
 
