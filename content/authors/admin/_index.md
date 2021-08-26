@@ -70,4 +70,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a database and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). I also volunteer as a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). My research interests include applied mathematics and modeling approaches to address problems in biology and medicine. Additionally interested in applications of embedded systems.
+I am a database and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). I also volunteer as a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
+\
+My research interests include applied mathematics and modeling approaches to address problems in biology and medicine. Additionally interested in applications of embedded systems.
