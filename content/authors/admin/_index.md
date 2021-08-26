@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: BS in Mathematics
-    institution: Indiana University East
+    institution: Indiana University
     year: 2017
 
 # Social/Academic Networking
