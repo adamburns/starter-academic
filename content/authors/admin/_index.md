@@ -28,10 +28,10 @@ education:
   courses:
   - course: Computer Science
     institution: University of Illinois
-    year: 2020
+    year: 2017-2020
   - course: BS in Mathematics
     institution: Indiana University
-    year: 2017
+    year: 2016-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
