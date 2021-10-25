@@ -18,10 +18,10 @@ bio: I am a researcher in DahariLab and the Program for Experimental & Theoretic
 
 # Interests to show in About widget
 interests:
-- Computational biology
+- Computational biology and chemistry
 - Infectious diseases
 - Drug discovery
-- Embedded systems
+- Chemical engineering
 
 # Education to show in About widget
 education:
@@ -75,4 +75,4 @@ user_groups:
 
 I am a database and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). I also volunteer as a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
 \
-My research interests include applied mathematics and modeling approaches to address problems in biology and medicine. Additionally interested in applications of embedded systems.
+My research interests include applied mathematics and modeling approaches to address problems in biology and medicine. Also acutely interested in applications of chemical engineering.
