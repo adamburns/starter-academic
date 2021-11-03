@@ -21,6 +21,7 @@ interests:
 - Computational biology and chemistry
 - Infectious diseases
 - Drug discovery
+- Food science
 - Chemical engineering
 
 # Education to show in About widget
