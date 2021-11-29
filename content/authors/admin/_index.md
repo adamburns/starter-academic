@@ -6,7 +6,7 @@ title: Adam A.C. Burns
 superuser: true
 
 # Role/position/tagline
-role: Database/Systems Administrator
+role: Developer/Systems Administrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
