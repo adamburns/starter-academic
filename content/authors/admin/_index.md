@@ -14,7 +14,7 @@ organizations:
   url: http://ccbr.biostat.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher in DahariLab and the Program for Experimental & Theoretical Modeling (PETM) at Loyola University Medical Center. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
+bio: I am a researcher at Hennepin Healthcare Research Institute. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
 
 # Interests to show in About widget
 interests:
@@ -24,10 +24,12 @@ interests:
 - Drug discovery
 - Food science
 
-
 # Education to show in About widget
 education:
   courses:
+  - course: Pre-Health
+    institution: Northwestern Health Sciences University
+    year: 2022 - 2023
   - course: Computer Science
     institution: University of Illinois
     year: 2017 - 2020
@@ -72,6 +74,6 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). I also volunteer as a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
+I am a developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). Currently most of my work is in clinical trials and observational studies in infectious disease, with emphases on COVID-19. I also volunteer as a researcher at [Hennepin Healthcare Research Institute](https://www.hhrinstitute.org). I previously researched computational biology in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
 \
 My research advisor is [Alexander Gutfraind](http://gutfraind.com/). My interests include applied mathematics and modeling approaches to address problems in biology and medicine. Also acutely interested in applications of DNA computing and food science.
