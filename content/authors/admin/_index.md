@@ -18,11 +18,12 @@ bio: I am a researcher in DahariLab and the Program for Experimental & Theoretic
 
 # Interests to show in About widget
 interests:
-- Computational biology and chemistry
+- Computational biology
+- DNA computing
 - Infectious diseases
 - Drug discovery
 - Food science
-- Chemical engineering
+
 
 # Education to show in About widget
 education:
@@ -48,9 +49,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/adamburns
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/adamarthurchandler/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-1630-0273
@@ -76,4 +74,4 @@ user_groups:
 
 I am a developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). I also volunteer as a researcher in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
 \
-My research advisor is [Alexander Gutfraind](http://gutfraind.com/). My interests include applied mathematics and modeling approaches to address problems in biology and medicine. Also acutely interested in applications of food science and chemical engineering.
+My research advisor is [Alexander Gutfraind](http://gutfraind.com/). My interests include applied mathematics and modeling approaches to address problems in biology and medicine. Also acutely interested in applications of DNA computing and food science.
