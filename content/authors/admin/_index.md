@@ -74,10 +74,10 @@ user_groups:
 - Principal Investigators
 ---
 
-I currently hold the roles of a software developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). My work is primarily involved around clinical trials and observational studies in the field of infectious disease, specifically focusing on COVID-19 research. \
+I currently hold the roles of a software developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). My work is primarily involved around clinical trials and observational studies in the field of infectious disease, specifically focusing on COVID-19 research.
 
-Outside my formal job, I volunteer as a researcher at the [Hennepin Healthcare Research Institute](https://www.hhrinstitute.org). My past experiences also include studying computational biology in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
+Outside my formal job, I volunteer as a researcher at the [Hennepin Healthcare Research Institute](https://www.hhrinstitute.org). My past experiences also include studying computational biology in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc).
 
-Under the guidance of my research advisor, [Alexander Gutfraind](http://gutfraind.com/), I have been able to delve into challenges in public health, health equity, and precision medicine, utilizing various models such as SEIR, Large Language, and Transformer. \
+Under the guidance of my research advisor, [Alexander Gutfraind](http://gutfraind.com/), I have been able to delve into challenges in public health, health equity, and precision medicine, utilizing various models such as SEIR, Large Language, and Transformer.
 
 My interests span across applied mathematics and deep learning modeling, especially when used to address problems in biology and medicine. I also possess a keen interest in exploring applications of DNA computing and food science.
