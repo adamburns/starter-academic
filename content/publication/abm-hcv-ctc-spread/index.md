@@ -21,10 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+# publication: 'MIDAS 2023'
 
 abstract: "**Background:** Mechanisms that lead to viral chronicity are poorly understood, but cell-to-cell (CTC) spread has been implicated in the establishment of chronic infections. Stochastic mathematical models were previously developed to explore the nature of hepatitis C virus (HCV) CTC spread, however, they were not designed to differentiate focus expansion due to spread vs cell proliferation and were not able to mimic focus shape, cell size, or foci merging. Here we have developed an agent-based model (ABM) to more fully describe this biological system.
 **Methods:** HCV infection was initiated with 50 HCV FFU and at 17h post inoculation (p.i.), the inoculum was removed and neutralizing anti-E2 was added to block cell-free virus transmission. Cell number was monitored with or without inhibitors that were added to block specific cellular receptors and therefore determine the effect of these factors on HCV CTC spread. Cells were fixed at 72h p.i., stained for HCV NS5A and HCV+ cells per foci counted as a measure of cell-to-cell spread. An ABM was developed in which each agent represents an individual cell that can divide to become up to 4 smaller size cells as the cell monolayer becomes more tightly packed.
