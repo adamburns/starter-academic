@@ -18,9 +18,9 @@ bio: I am a researcher at Hennepin Healthcare Research Institute. My research in
 
 # Interests to show in About widget
 interests:
-- Computational biology
+- Computational biology & precision medicine
 # - DNA computing
-- Precision medicine
+- Deep learning & transformer models
 - Drug repurposing
 - Causal treatment effect estimation
 - Clinical trials
