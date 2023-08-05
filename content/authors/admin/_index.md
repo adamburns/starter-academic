@@ -6,7 +6,7 @@ title: Adam A.C. Burns
 superuser: true
 
 # Role/position/tagline
-role: Developer/Systems Administrator
+role: Computer Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: http://ccbr.biostat.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher at Hennepin Healthcare Research Institute. My research interests include applied mathematics and mechanistic modeling approaches to address problems in biology and medicine.
+bio: I am a researcher at Hennepin Healthcare Research Institute. My research interests include applied mathematics, mechanistic, and machine learning modeling approaches to address problems in biology and medicine.
 
 # Interests to show in About widget
 interests:
@@ -74,6 +74,10 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). Currently most of my work is in clinical trials and observational studies in infectious disease, with emphases on COVID-19. I also volunteer as a researcher at [Hennepin Healthcare Research Institute](https://www.hhrinstitute.org). I previously researched computational biology in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
-\
-My research advisor is [Alexander Gutfraind](http://gutfraind.com/). My interests include applied mathematics and modeling approaches to address problems in biology and medicine. Also acutely interested in applications of DNA computing and food science.
+I currently hold the roles of a software developer and systems administrator at the [Coordinating Centers for Biometric Research (CCBR)](http://ccbr.biostat.umn.edu/) at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). My work is primarily involved around clinical trials and observational studies in the field of infectious disease, specifically focusing on COVID-19 research. \
+
+Outside my formal job, I volunteer as a researcher at the [Hennepin Healthcare Research Institute](https://www.hhrinstitute.org). My past experiences also include studying computational biology in [DahariLab](https://www.daharilab.com/) and the [Program for Experimental & Theoretical Modeling (PETM)](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/) at [Loyola University Medical Center](https://loyolamedicine.org/lumc). \
+
+Under the guidance of my research advisor, [Alexander Gutfraind](http://gutfraind.com/), I have been able to delve into challenges in public health, health equity, and precision medicine, utilizing various models such as SEIR, Large Language, and Transformer. \
+
+My interests span across applied mathematics and deep learning modeling, especially when used to address problems in biology and medicine. I also possess a keen interest in exploring applications of DNA computing and food science.
