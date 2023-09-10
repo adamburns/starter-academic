@@ -36,41 +36,8 @@ authors:
 - Bo Zeng
 - Tecla Kivuli
 - Muthoni Mate
-- Abdirahaman Musa
-- Cindy Mical
-- Hellen Nyagol
-- Kevin Ochieng
-- Tonny Epuu
-- Amma Benneh-Akwasi Kuma
-- Catherine Segbefia
-- Alfred Yawson
-- Seth Adu-Afarwuah
-- Phillip Adongo
-- Michael Acquah
-- Tara Tancred
-- Emmanuel Nene Dei
-- Imelda Bates
-- Solomon Ofori-Acquah
-- Justina Kordai Ansah
-- Dilys John-Teye
-- Claudia Cohn
-- Haitao Chu
-- admin
-- Mitch Croal
-- Kate Eckroth
-- Collin Van Ryn
-- Titus Chiwindo
-- Victor Mwapasa
-- Adamson Muula
-- Patani Mhango
-- Princess Kayira
-- Andrew Likaka
-- Wilfred Dzama
-- Natasha Nsamala
-- Geoffrey Kadewere
-- Martias Joshua
 author_notes:
-- 
+- ""
 date: "2022-09-29T00:00:00Z"
 doi: '10.1111/trf.17091'
 
