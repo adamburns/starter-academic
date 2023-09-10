@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19"
+title: "The BLOODSAFE program: Building the future of access to safe blood in Sub-Saharan Africa"
 authors:
 - Meghan Delaney
 - Susan Telke
