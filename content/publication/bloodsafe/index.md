@@ -1,6 +1,7 @@
 ---
 title: "Modeling cell-to-cell spread of hepatitis C viral infection in vitro using agent-based modeling approach"
-authors:- Meghan Delaney
+authors:
+- Meghan Delaney
 - Susan Telke
 - Shimian Zou
 - Makeda J Williams
