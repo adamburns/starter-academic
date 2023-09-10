@@ -1,16 +1,81 @@
 ---
 title: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19"
 authors:
+- Meghan Delaney
+- Susan Telke
+- Shimian Zou
+- Makeda J Williams
+- Jackline O Aridi
+- Kristina E Rudd
+- Juan Carlos Puyana
+- Pratap Kumar
+- Bernard Appiah
+- "Yvonne Dei-Adomakoh"
+- "Lucy Asamoah-Akuoko"
+- Edeghonghon Olayemi
+- Emmanuel Singogo
+- Mina C Hosseinipour
+- Bridon M'baya
+- Effie Chipeta
+- Cavan Reilly
+- BLOODSAFE Program Investigators
+- Robert Kamu
+- Jackline Aridi
+- "Alejandro Munoz-Valencia"
+- Nakul Raykar
+- Linda Barnes
+- Jennifer Makin
+- Bopaya Bidanda
+- Mark H Yazer
+- Jana MacLeod
+- Carolyne Nkoki Muiri
+- Bernard Olayo
+- Gatwiri Murithi
+- Jayant Rajgopal
+- Yiqi Tian
+- Bo Zeng
+- Tecla Kivuli
+- Muthoni Mate
+- Abdirahaman Musa
+- Cindy Mical
+- Hellen Nyagol
+- Kevin Ochieng
+- Tonny Epuu
+- "Amma Benneh-Akwasi Kuma"
+- Catherine Segbefia
+- Alfred Yawson
+- "Seth Adu-Afarwuah"
+- Phillip Adongo
+- Michael Acquah
+- Tara Tancred
+- Emmanuel Nene Dei
+- Imelda Bates
+- "Solomon Ofori-Acquah"
+- Justina Kordai Ansah
+- "Dilys John-Teye"
+- Claudia Cohn
+- Haitao Chu
 - admin
-- Alexander Gutfraind
+- Mitch Croal
+- Kate Eckroth
+- Collin Van Ryn
+- Titus Chiwindo
+- Victor Mwapasa
+- Adamson Muula
+- Patani Mhango
+- Princess Kayira
+- Andrew Likaka
+- Wilfred Dzama
+- Natasha Nsamala
+- Geoffrey Kadewere
+- Martias Joshua
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2021-03-30T00:00:00Z"
-doi: "10.7717/peerj.11211"
+- ""
+date: "2022-09-29T00:00:00Z"
+doi: "10.1111/trf.17091"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-09-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,25 +84,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'PeerJ'
+publication: 'Transfusion'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-abstract: "**Background** Non-pharmaceutical interventions such as social distancing, school closures and travel restrictions are often implemented to control outbreaks of infectious diseases. For influenza in schools, the Center of Disease Control (CDC) recommends that febrile students remain isolated at home until they have been fever-free for at least one day and a related policy is recommended for SARS-CoV-2 (COVID-19). Other authors proposed using a school week of four or fewer days of in-person instruction for all students to reduce transmission. However, there is limited evidence supporting the effectiveness of these interventions.
-<br><br>
-**Methods** We introduced a mathematical model of school outbreaks that considers both intervention methods. Our model accounts for the school structure and schedule, as well as the time-progression of fever symptoms and viral shedding. The model was validated on outbreaks of seasonal and pandemic influenza and COVID-19 in schools. It was then used to estimate the outbreak curves and the proportion of the population infected (attack rate) under the proposed interventions.
-<br><br>
-**Results** For influenza, the CDC-recommended one day of post-fever isolation can reduce the attack rate by a median (interquartile range) of 29 (13–59)%. With 2 days of post-fever isolation the attack rate could be reduced by 70 (55–85)%. Alternatively, shortening the school week to 4 and 3 days reduces the attack rate by 73 (64–88)% and 93 (91–97)%, respectively. For COVID-19, application of post-fever isolation policy was found to be less effective and reduced the attack rate by 10 (5–17)% for a 2-day isolation policy and by 14 (5–26)% for 14 days. A 4-day school week would reduce the median attack rate in a COVID-19 outbreak by 57 (52–64)%, while a 3-day school week would reduce it by 81 (79–83)%. In both infections, shortening the school week significantly reduced the duration of outbreaks.
-<br><br>
-**Conclusions** Shortening the school week could be an important tool for controlling influenza and COVID-19 in schools and similar settings. Additionally, the CDC-recommended post-fever isolation policy for influenza could be enhanced by requiring two days of isolation instead of one."
+abstract: "**Background:**
+The supply of blood in many low- and middle-income nations in Sub-Saharan Africa (SSA) does not meet the patient care needs. Lack and delay of blood transfusion cause harm to patients and slow the rate of progress in other parts of the health system. Recognizing the power of implementation science, the BLOODSAFE Program was initiated which supports three SSA research study teams and one data coordinating center (DCC) with the goal to improve access to safe blood transfusion in SSA.
+</br></br>
+**Study Design and Methods:**
+The study team in Ghana is focusing on studying and decreasing iron deficiency in blood donors and evaluating social engagement of blood donors through different approaches. The study team in Kenya is building a “vein to vein” workflow model to elucidate and devise strategies to overcome barriers to blood donation and improve infrastructural components of blood product production and use. The Malawi team is studying the infectious disease ramifications of blood donation as well as blood donor retention strategies aimed at blood donors who commence their donation career in secondary schools.
+</br></br>
+**Results and Discussion:**
+Together the project teams and the DCC work as a consortium to support each other through a shared study protocol that will study donor motivations, outcomes, and adverse events across all three countries. The BLOODSAFE Program has the potential to lead to generalizable improvement approaches for increasing access to safe blood in SSA as well as mentoring and building the research capacity and careers of many investigators."
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: 'https://peerj.com/articles/11211/'
+# url_pdf: 'https://peerj.com/articles/11211/'
 # url_code: 'https://github.com/sashagutfraind/feverfighter'
 
 # Associated Projects (optional).
