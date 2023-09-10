@@ -2,7 +2,7 @@
 title: "The BLOODSAFE program: Building the future of access to safe blood in Sub-Saharan Africa"
 authors:
 - Meghan Delaney
-- et al.
+- "et al."
 author_notes:
 - ""
 date: "2022-09-29T00:00:00Z"
