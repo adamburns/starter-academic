@@ -55,7 +55,7 @@ authors:
 - Dilys John-Teye
 - Claudia Cohn
 - Haitao Chu
-- Adam Burns
+- admin
 - Mitch Croal
 - Kate Eckroth
 - Collin Van Ryn
