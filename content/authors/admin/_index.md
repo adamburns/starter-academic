@@ -38,6 +38,18 @@ education:
     institution: Indiana University
     year: 2017
 
+committee-work:
+  committees:
+  - course: Infectious Diseases Committee, Co-Chair
+    institution: Northwestern Health Sciences University
+    year: 2023 - present
+  - course: School of Public Health Research Committee, Member
+    institution: University of Minnesota
+    year: 2021 - present
+  - course: Division of Biostatistics Research Committee, Member
+    institution: University of Minnesota
+    year: 2021 - 2023
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
